@@ -13,7 +13,7 @@ In command prompt(windows) / terminal(linux) run the program first_nonrep_char.p
 python first_nonrep_char.py -i Bubble
 
 ## Example 
-![Example](/App-examples/Example.PNG)
+![Example](/first_nonrep_char/Example.PNG)
 
 
 
